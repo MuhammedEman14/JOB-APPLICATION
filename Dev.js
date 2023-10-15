@@ -4,7 +4,7 @@ var jobData = [
     {
       "id": 1,
       "company": "Photosnap",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/photosnap.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/photosnap.svg",
       "new": true,
       "featured": true,
       "position": "Senior Frontend Developer",
@@ -19,7 +19,7 @@ var jobData = [
     {
       "id": 2,
       "company": "Manage",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/manage.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/bg-header-desktop.svg",
       "new": true,
       "featured": true,
       "position": "Fullstack Developer",
@@ -34,7 +34,7 @@ var jobData = [
     {
       "id": 3,
       "company": "Account",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/account%20(1).svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/account%20(1).svg",
       "new": true,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -49,7 +49,7 @@ var jobData = [
     {
       "id": 4,
       "company": "MyHome",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/myhome.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/myhome.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -64,7 +64,7 @@ var jobData = [
     {
       "id": 5,
       "company": "Loop Studios",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/loop-studios.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/loop-studios.svg",
       "new": false,
       "featured": false,
       "position": "Software Engineer",
@@ -79,7 +79,7 @@ var jobData = [
     {
       "id": 6,
       "company": "FaceIt",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/faceit.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/faceit.svg",
       "new": false,
       "featured": false,
       "position": "Junior Backend Developer",
@@ -94,7 +94,7 @@ var jobData = [
     {
       "id": 7,
       "company": "Shortly",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/shortly.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/shortly.svg",
       "new": false,
       "featured": false,
       "position": "Junior Developer",
@@ -109,7 +109,7 @@ var jobData = [
     {
       "id": 8,
       "company": "Insure",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/insure.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/insure.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -124,7 +124,7 @@ var jobData = [
     {
       "id": 9,
       "company": "Eyecam Co.",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/eyecam-co.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/eyecam-co.svg",
       "new": false,
       "featured": false,
       "position": "Full Stack Engineer",
@@ -139,7 +139,7 @@ var jobData = [
     {
       "id": 10,
       "company": "The Air Filter Company",
-      "logo": "file:///C:/Users/Dar%20Laptop/Desktop/Web_Assignment1/the-air-filter-company.svg",
+      "logo": "https://github.com/MuhammedEman14/JOB-APPLICATION/blob/main/the-air-filter-company.svg",
       "new": false,
       "featured": false,
       "position": "Front-end Dev",
